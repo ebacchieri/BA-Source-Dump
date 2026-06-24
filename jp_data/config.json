@@ -1,5 +1,5 @@
 {
-    "ServerInfoDataUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r92_69_n6bbzfm9l4uam95cnbhu.json",
+    "ServerInfoDataUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r93_70_eaueguci86m4lr0zwa44.json",
     "ConnectionGroups": [
         {
             "Name": "Prod-Audit",
@@ -17,8 +17,8 @@
                     "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/m28_1_0_1_mashiro3"
                 },
                 {
-                    "Name": "1.69",
-                    "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/r92_4dws5t07strq8k0oi7pt"
+                    "Name": "1.70",
+                    "AddressablesCatalogUrlRoot": "https://prod-clientpatch.bluearchiveyostar.com/r93_epcj2spph8q96s1q0gru"
                 }
             ],
             "BundleVersion": "s8tloc7lo3",
